@@ -94,7 +94,7 @@ Quando clicar no item de menu sobre a accenture<br>
 Então deve ver o destaque nosso proposito<br>
 
 ----------------------------------------------------------------------
-link para a apresentação: https://www.canva.com/design/DAEhHsZj8NE/giFvaCj9FJqLcT4ucElcOA/view?utm_content=DAEhHsZj8NE&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent#1<br>
+link para a apresentação: <br> https://www.canva.com/design/DAEhHsZj8NE/giFvaCj9FJqLcT4ucElcOA/view?utm_content=DAEhHsZj8NE&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent#1</br><br>
 ----------------------------------------------------------------------
 
 ## Ferramentas utilizadas 
